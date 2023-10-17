@@ -2,7 +2,7 @@
 
 ***Browsing***
 
-There are three largely overlapping collections in papyri.info, the Duke Databank of Documentary Papyri (DDbDP), the Heidelberger Gesamtverzeichnis (HGV), and the Advanced Papyrological Information System (APIS). You can browse their collections by the print publication in which the relevant edition was published. For example, papyri from the series *The Oxyrhynchus Papyri* are listed under [papyri.info/ddbdp/p.oxy](http://papyri.info/ddbdp/p.oxy).
+There are four largely overlapping collections in papyri.info, the Duke Databank of Documentary Papyri (DDbDP), the Digital Corpus of Literary Papyri (DCLP), the Heidelberger Gesamtverzeichnis (HGV), and the Advanced Papyrological Information System (APIS). Users can browse these collections by the print publication in which the relevant edition was published. For example, in the DDbDP collection, papyri from the series *The Oxyrhynchus Papyri* are listed under [papyri.info/ddbdp/p.oxy](https://papyri.info/ddbdp/p.oxy), while literary texts from the same series can be found in DCLP under [papyri.info/dclp/p.oxy](https://papyri.info/dclp/p.oxy). Literary papyri in DCLP can also be browsed by author and work.
 
 ***Searching***
 
@@ -10,7 +10,7 @@ The [document search page](http://papyri.info/search) has detailed information o
 
 ***Page Organization***
 
-Each document page has some combination of: data (from HGV), catalog data (from APIS), a transcription (from DDbDP), translation(s) (from HGV or APIS), and images (from APIS)
+Each document page has some combination of: data (from HGV and/or DCLP/LDAB), catalog data (from APIS), a transcription (from DDbDP or DCLP), translation(s) (from HGV or APIS), and images (from APIS).
 
 ***Editing***
 
