@@ -15,6 +15,7 @@ Papyri.info aggregates material from the Advanced Papyrological Information Syst
     <td width="50%" valign="top" style="padding-left:10em;padding-right:2em;"><h2>Partners</h2>
     <ul class="about">
       <li><a href="docs/apis" title="learn about the Advanced Papyrological Information System">APIS</a></li>
+      <li><a href="/docs/dclp" title="learn about the Digital Corpus of Literary Papyri">DCLP</a></li>
       <li><a href="/docs/ddbdp" title="learn about the Duke Databank of Documentary Papyri">DDbDP</a></li>
       <li><a href="http://www.rzuser.uni-heidelberg.de/%7Egv0/" title="learn about the Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens">HGV</a></li>
       <li><a href="http://www.aere-egke.be/BP_enligne.htm" title="learn about the Bibliographie Papyrologique">BP</a></li>
